@@ -8,3 +8,8 @@ Welcome! This is my hands-on AI portfolio showing my understanding of how to bui
 
 Each folder includes a short explanation, sample code, and what I learned.
 # ai-product-portfolio
+
+## 🔗 Projects
+- [Prompt Engineering Sandbox](projects/prompt-engineering)
+- [RAG Knowledge Assistant](projects/rag-assistant)
+- [Fine-Tuning Demo](projects/fine-tuning-demo)
